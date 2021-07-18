@@ -86,7 +86,7 @@ SELECT 16+6 AS 'TOPLAM', 16-6 AS 'FARK', 16*6 AS 'ÇARPIM', 16/6 AS 'BÖLÜM';
 -- BİRLEŞTİRME FONKSİYONU
 
 SELECT CONCAT(adi,' ', soyadi) AS 'AD SOYAD'  FROM calisanlar;
--- Sonuçta MİSLİ ÇELİK gibi bir sonuç elde edilir.
+-- çıktıda MİSLİ ÇELİK gibi sonuçlar elde edilir.
 
 -- SUBSTRİNG 
 
